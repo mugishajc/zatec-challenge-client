@@ -22,6 +22,8 @@ Create a new .env file in the root of the project with the following contents:
  
  Open your browser and go to http://localhost:3000. 
  
+ And make sure that the backend RESTFULAPI is running.
+ 
  Usage Here's how to use the project: Sign in with your Google account.
  Do something cool. 
  

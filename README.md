@@ -19,6 +19,7 @@ Create a new .env file in the root of the project with the following contents:
  Replace YOUR_GOOGLE_CLIENT_ID with your actual Google Client ID.
  
  Run the development server: npm run dev 
+ 
  Open your browser and go to http://localhost:3000. 
  
  Usage Here's how to use the project: Sign in with your Google account.
